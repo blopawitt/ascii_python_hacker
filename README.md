@@ -8,6 +8,7 @@ ASCII art is a graphic design technique that uses computers for presentation and
 Write a Python program called initials.py that displays the initials of your name in block letters as shown and dip your toes into ASCII art.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 ataquehacker.py
 
 2 – Um grande cliente seu sofreu um ataque hacker: o servidor foi sequestrado por um software malicioso, que criptografou todos os discos e pede a digitação de uma senha para a liberação da máquina. E é claro que os criminosos exigem um pagamento para informar a senha.

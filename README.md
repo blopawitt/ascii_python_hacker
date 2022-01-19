@@ -1,5 +1,5 @@
 # ASCIIart
-Aprendendo sobre ASCII art no Codeacademy.
+Aprendendo sobre ASCII art.
 
 **Block Letters**
 
